@@ -9,7 +9,7 @@ The original OBKNN approach relies on an exact brute-force nearest neighbor sear
 
 You can find the original code of OBKNN and the datasets here:
 * **Original OBKNN Code:** (https://github.com/nirojasva/spectral-benchmark.git)
-* **Raw Data BV3:** (https://drive.uca.fr/d/70aec2976f0e45438eb7/)
+* **Original Raw Data BV3:** (https://drive.uca.fr/d/70aec2976f0e45438eb7/)
 
 
 
@@ -56,7 +56,7 @@ python -m ipykernel install --user --name=env_analysis --display-name "Python (e
 
 
 
-# How to run HNSW-based OBKNN
+# How to run HNSW-enhanced OBKNN
 ### Parameters
 
 - chunk_size: size of the chunks (default: 240)
@@ -66,7 +66,7 @@ python -m ipykernel install --user --name=env_analysis --display-name "Python (e
 
 ### Scripts
 
-cd ~/HNSW-BASED-OBKNN
+cd ~/HNSW-ENHANCED-OBKNN
 
 source env_analysis/bin/activate
 nohup python code/model_hnsw_OBKNN.py
