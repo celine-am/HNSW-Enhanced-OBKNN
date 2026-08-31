@@ -1,4 +1,4 @@
-# Effeciency Improvement Of Online Bootsrapping KNN anomaly detector 
+# Effeciency Improvement Of Online Bootstrapping KNN anomaly detector 
 
 This repository explores the integration of Approximate Nearest Neighbor(ANN) search into Online Bootstrapping K-Nearest Neighbor (OBKNN) framework to reduce its computational cost.
 
