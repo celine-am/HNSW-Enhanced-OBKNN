@@ -79,11 +79,5 @@ The results will be generated directly in a csv format and stored in the \improv
 
 
 
-## Datasets description (/datasets)
-- 
-- The last column in each dataset file refers to the anomaly label (1: anomaly, 0:normal).
-- The first colum in each dataset file correspond to the timestamp of the recorded spectral instances.
-- The rest of columns in each dataset are associated with different wavelenths of the spectral instances.
-
 
 
