@@ -1,6 +1,6 @@
 # Effeciency Improvement Of Online Bootsrapping KNN anomaly detector 
 
-This repository explores the integration of Approximate Nearest Neighbor(ANN) search intp Online Bootstrapping K-Nearest Neighbor (OBKNN) framework to reduce its computational cost.
+This repository explores the integration of Approximate Nearest Neighbor(ANN) search into Online Bootstrapping K-Nearest Neighbor (OBKNN) framework to reduce its computational cost.
 
 The original OBKNN approach relies on an exact brute-force nearest neighbor search across multiple data chunks of high-simensional sepctral data. We therefore investgate an HNSW-based replacement of the exact search aiming to improve computational efficiency while maintaining competitive anomaly detection performance.
 
