@@ -56,7 +56,7 @@ python -m ipykernel install --user --name=env_analysis --display-name "Python (e
 
 
 
-# How to run HNSW-enhanced OBKNN
+# How to run EOBKNN, the HNSW-enhanced OBKNN
 ### Parameters
 
 - chunk_size: size of the chunks (default: 240)
